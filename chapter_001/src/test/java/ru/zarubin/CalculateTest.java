@@ -4,7 +4,18 @@ import org.junit.Test;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.*;
 
+/**
+ * Test
+ *
+ *@author zarubin
+ *@since 14/01/2017
+ *@version 0.1
+ **/
+
 public class CalculateTest {
+	/**
+	*Test add.
+	*/
 	
 	@Test
 	public void whenSetStopInEchoThenReturnThreeStops() {
@@ -20,4 +31,5 @@ public class CalculateTest {
 		assertThat(result, is("null null null"));
 	}
 
+	
 }
