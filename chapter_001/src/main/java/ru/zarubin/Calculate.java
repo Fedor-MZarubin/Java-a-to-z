@@ -1,6 +1,6 @@
 package ru.zarubin;
 /**
- * //TODO add comments.
+ * Calculate
  *
  *@author zarubin
  *@since 14/01/2017
